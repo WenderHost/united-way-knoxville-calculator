@@ -1,0 +1,140 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: justify;
+	line-height: 1.20;
+	font : 100%/1.4 'Oswald', "Arial Narrow", Arial'Helvetica Neue', arial, helvetica, helve, sans-serif;
+	 }
+	h1 { font-size: 4em; padding:0;}
+	h2 { font-size:3.5em;}
+	h3 { font-size:2em;}
+	
+	h1, h2, h3, p{ font-weight: 400;}
+	.yellow{ color: #ff9600;}
+
+	.header { padding:1em 0; }
+	.col { text-align: center; padding:1em 0;}
+	.footer{ margin-top: 1em; padding: 1em;}
+
+/* page specific */
+	.intro{ background-color: #000066; text-transform: uppercase; font-weight: 100; color: white;}
+	.intro .bg1 { color: #000e4c; height: 100%; width: 100%; text-align: justify; background: url(../imgs/sl1/bg-1.jpg) no-repeat center top;}
+	.light{}
+	.intro .bullet{; text-align: center;}
+	.intro a{color: white; text-decoration: none;}
+	.intro a:hover{text-decoration: underline;}
+	
+	
+	.home{letter-spacing: -1px;
+	text-transform: uppercase;
+	font-weight: 100;
+	background-color: #f6efcf;
+	background: url(../imgs/sl2/bg-2.jpg) no-repeat left top;
+	background-size: cover;
+	color: #10167f;}
+
+	.thx{
+	background-color: #f6efcf;
+	background: url(../imgs/thx/bg-thx.jpg) no-repeat left top;
+	background-size: cover;
+	color: #10167f;}
+	
+	.donate{
+	background-repeat: repeat;
+	background-image: url(../imgs/sl3/bg-3.jpg);
+	letter-spacing: -1px;
+	text-transform: uppercase;
+	font-weight: 100;
+	background-color: #f6efcf;
+	color: #10167f;}
+	
+	
+	.abuse{
+	background-color: #5e6265;
+	background:#333 url(../imgs/sl4/bg-4.jpg) no-repeat left top;
+	background-size: cover;}
+	
+	.elder{
+	background-color: #5e6265;
+	background:#333 url(../imgs/sl5/bg-5.jpg) no-repeat left top;
+	background-size: cover;}
+
+	.disability{
+	background-color: #5e6265;
+	background:#333 url(../imgs/sl6/bg-6.jpg) no-repeat left top;
+	background-size: cover;}
+
+	.homeless{
+	background-color: #5e6265;
+	background:#333 url(../imgs/sl7/bg-7.jpg) no-repeat left top;
+	background-size: cover;}
+
+	.addiction{
+	background-color: #5e6265;
+	background:#333 url(../imgs/sl8/bg-8.jpg) no-repeat left top;
+	background-size: cover;}
+
+	.criticalcare{
+	background-color: #5e6265;
+	background:#333 url(../imgs/sl9/bg-9.jpg) no-repeat left top;
+	background-size: cover;}
+
+	.youthskills{
+	background-color: #5e6265;
+	background:#333 url(../imgs/sl10/bg-10.jpg) no-repeat left top;
+	background-size: cover;}
+	
+	#abuse1{ background: url(../imgs/sl4/sl4.png) no-repeat center center;}
+	#abuse5{ background: url(../imgs/sl11/sl11.png) no-repeat center center;}
+	#abuse10{ background: url(../imgs/sl18/sl18.png) no-repeat center center;}
+	#abuse20{ background: url(../imgs/sl25/sl25.png) no-repeat center center;}
+
+	#elder1{ background: url(../imgs/sl5/sl5.png) no-repeat center center;}
+	#elder5{ background: url(../imgs/sl12/sl12.png) no-repeat center center;}
+	#elder10{ background: url(../imgs/sl19/sl19.png) no-repeat center center;}
+	#elder20{ background: url(../imgs/sl26/sl26.png) no-repeat center center;}
+
+	#disability1{ background: url(../imgs/sl6/sl6.png) no-repeat center center;}
+	#disability5{ background: url(../imgs/sl13/sl13.png) no-repeat center center;}
+	#disability10{ background: url(../imgs/sl20/sl20.png) no-repeat center center;}
+	#disability20{ background: url(../imgs/sl27/sl27.png) no-repeat center center;}
+
+	#homeless1{ background: url(../imgs/sl7/sl7.png) no-repeat center center;}
+	#homeless5{ background: url(../imgs/sl14/sl14.png) no-repeat center center;}
+	#homeless10{ background: url(../imgs/sl21/sl21.png) no-repeat center center;}
+	#homeless20{ background: url(../imgs/sl28/sl28.png) no-repeat center center;}
+
+	#addiction1{ background: url(../imgs/sl8/sl8.png) no-repeat center center;}
+	#addiction5{ background: url(../imgs/sl15/sl15.png) no-repeat center center;}
+	#addiction10{ background: url(../imgs/sl22/sl22.png) no-repeat center center;}
+	#addiction20{ background: url(../imgs/sl29/sl29.png) no-repeat center center;}
+
+	#criticalcare1{ background: url(../imgs/sl9/sl9.png) no-repeat center center;}
+	#criticalcare5{ background: url(../imgs/sl16/sl16.png) no-repeat center center;}
+	#criticalcare10{ background: url(../imgs/sl23/sl23.png) no-repeat center center;}
+	#criticalcare20{ background: url(../imgs/sl30/sl30.png) no-repeat center center;}
+
+	#youthskills1{ background: url(../imgs/sl10/sl10.png) no-repeat center center;}
+	#youthskills5{ background: url(../imgs/sl17/sl17.png) no-repeat center center;}
+	#youthskills10{ background: url(../imgs/sl24/sl24.png) no-repeat center center;}
+	#youthskills20{ background: url(../imgs/sl31/sl31.png) no-repeat center center;}
+
+
+
+
+
+
+
+	#abuse1,#abuse5,#abuse10,#abuse20,#elder1,#elder5,#elder10,#elder20,#disability1,#disability5,#disability10,#disability20,#homeless1,#homeless5,#homeless10,#homeless20,#addiction1,#addiction5,#addiction10,#addiction20,#criticalcare1,#criticalcare5,#criticalcare10,#criticalcare20,#youthskills1,#youthskills5,#youthskills10,#youthskills20{
+	background-size: contain;
+	min-height: 500px;
+	}
+
+
+
+
+
+	
+	img{ max-height: 100%; max-width: 100%; }
+	.intro.header{ background-color: white; }
