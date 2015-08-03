@@ -16,7 +16,7 @@
 	<meta name="keywords" content="United Way, giving, Knoxville, live united">
 
 	<meta http-equiv="cleartype" content="on">
-	
+
 	<!-- Responsive and mobile friendly stuff -->
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
@@ -35,7 +35,7 @@
 <body class="home">
 <?php include_once("analyticstracking.php") ?>
 				<div class="section group"></div>
-				
+
 		<div class="bg1">
 				<div class="section group">
 					<div class="col span_1_of_2">
@@ -48,60 +48,37 @@
 					<div class="col span_1_of_5">
 					</div>
 					<div class="col span_3_of_5">
-				<img src="imgs/sl2/sl2-1.png" alt="Many in our community go without various essentials necessary to reach their potential for independence. Gone are the days when donations ended with a signature on a check. By supporting UWGK, you CONTRIBUTE TO THE SUCCESS OF MORE THAN 100 NON-PROFIT PROGRAMS IN OUR COMMUNITY." />		
+				<img src="imgs/sl2/sl2-1.png" alt="Many in our community go without various essentials necessary to reach their potential for independence. Gone are the days when donations ended with a signature on a check. By supporting UWGK, you CONTRIBUTE TO THE SUCCESS OF MORE THAN 100 NON-PROFIT PROGRAMS IN OUR COMMUNITY." />
  					</div>
 					<div class="col span_1_of_5">
 					</div>
 				</div>
-				
-				
+
+
 				<div class="section group">
 					<div class="col span_1_of_5">
 					</div>
 					<div class="col span_3_of_5 ">
-				<img src="imgs/sl2/sl2-2.png" alt="sl2-2" width="599" height="320" />	
+				<img src="imgs/sl2/sl2-2.png" alt="sl2-2" width="599" height="320" />
 					</div>
 					<div class="col span_1_of_5">
 					</div>
 				</div>
-				
+
 	<?php
 
-if(isset($_GET['a'])){
-$a=(int)($_GET['a']);
-}
-if(isset($_GET['b'])){
-$b=(int)($_GET['b']);
-}
-if(isset($_GET['c'])){
-$c=(int)($_GET['c']);
-}
-if(isset($_GET['d'])){
-$d=(int)($_GET['d']);
-}
-if(isset($_GET['e'])){
-$d=(int)($_GET['e']);
-}
-if(isset($_GET['f'])){
-$d=(int)($_GET['f']);
-}
-if(isset($_GET['g'])){
-$d=(int)($_GET['g']);
-}
-if(isset($_GET['A'])){
-$d=(int)($_GET['A']);
-}
-if(isset($_GET['B'])){
-$d=(int)($_GET['B']);
-}
-if(isset($_GET['C'])){
-$d=(int)($_GET['C']);
-}
-if(isset($_GET['D'])){
-$d=(int)($_GET['D']);
-}
-							
-				
+$a = ( isset( $_GET['a'] ) )? (int)( $_GET['a'] ) : 0 ;
+$b = ( isset( $_GET['b'] ) )? (int)( $_GET['b'] ) : 0 ;
+$c = ( isset( $_GET['c'] ) )? (int)( $_GET['c'] ) : 0 ;
+$d = ( isset( $_GET['d'] ) )? (int)( $_GET['d'] ) : 0 ;
+$e = ( isset( $_GET['e'] ) )? (int)( $_GET['e'] ) : 0 ;
+$f = ( isset( $_GET['f'] ) )? (int)( $_GET['f'] ) : 0 ;
+$g = ( isset( $_GET['g'] ) )? (int)( $_GET['g'] ) : 0 ;
+$A = ( isset( $_GET['A'] ) )? (int)( $_GET['A'] ) : 0 ;
+$B = ( isset( $_GET['B'] ) )? (int)( $_GET['B'] ) : 0 ;
+$C = ( isset( $_GET['C'] ) )? (int)( $_GET['C'] ) : 0 ;
+$D = ( isset( $_GET['D'] ) )? (int)( $_GET['D'] ) : 0 ;
+
 				echo '<div class="section group">';
 					echo '<div class="col span_1_of_11"><!-- Spacer 1 of 5 --></div>';
 					echo '<div class="col span_3_of_11 bullet">';
@@ -131,8 +108,8 @@ $d=(int)($_GET['D']);
 					echo '</div>';
 					echo '<div class="col span_1_of_11"><!-- Spacer 1 of 11 --></div>';
 				echo '</div>';
-				
-				
+
+
 					echo '<div class="section group">';
 					echo '<div class="col span_1_of_11"></div>';
 					echo '<div class="col span_3_of_11 bullet"></div>';
@@ -143,8 +120,8 @@ $d=(int)($_GET['D']);
 					echo '<div class="col span_1_of_11"></div>';
 				echo '</div>';
 
-?>				
-				
+?>
+
 				<div class="section group">
 					<div class="col span_1_of_2">
 					</div>
@@ -152,16 +129,16 @@ $d=(int)($_GET['D']);
 					</div>
 				</div>
 
-	
+
 		</div>  <!-- bg1 -->
-	
-	
-	
+
+
+
 		<div class="footer">
 
 		</div>
 
 
-	
+
 </body>
 </html>

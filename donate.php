@@ -16,7 +16,7 @@
 	<meta name="keywords" content="United Way, giving, Knoxville, live united">
 
 	<meta http-equiv="cleartype" content="on">
-	
+
 	<!-- Responsive and mobile friendly stuff -->
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
@@ -44,8 +44,8 @@
 					<div class="col span_1_of_2">
 					</div>
 				</div>
-			
-				
+
+
 				<div class="section group">
 					<div class="col span_1_of_5">
 					</div>
@@ -57,41 +57,18 @@
 				</div>
 
 <?php
+$a = ( isset( $_GET['a'] ) )? (int)( $_GET['a'] ) : 0 ;
+$b = ( isset( $_GET['b'] ) )? (int)( $_GET['b'] ) : 0 ;
+$c = ( isset( $_GET['c'] ) )? (int)( $_GET['c'] ) : 0 ;
+$d = ( isset( $_GET['d'] ) )? (int)( $_GET['d'] ) : 0 ;
+$e = ( isset( $_GET['e'] ) )? (int)( $_GET['e'] ) : 0 ;
+$f = ( isset( $_GET['f'] ) )? (int)( $_GET['f'] ) : 0 ;
+$g = ( isset( $_GET['g'] ) )? (int)( $_GET['g'] ) : 0 ;
+$A = ( isset( $_GET['A'] ) )? (int)( $_GET['A'] ) : 0 ;
+$B = ( isset( $_GET['B'] ) )? (int)( $_GET['B'] ) : 0 ;
+$C = ( isset( $_GET['C'] ) )? (int)( $_GET['C'] ) : 0 ;
+$D = ( isset( $_GET['D'] ) )? (int)( $_GET['D'] ) : 0 ;
 
-if(isset($_GET['a'])){
-$a=(int)($_GET['a']);
-}
-if(isset($_GET['b'])){
-$b=(int)($_GET['b']);
-}
-if(isset($_GET['c'])){
-$c=(int)($_GET['c']);
-}
-if(isset($_GET['d'])){
-$d=(int)($_GET['d']);
-}
-if(isset($_GET['e'])){
-$e=(int)($_GET['e']);
-}
-if(isset($_GET['f'])){
-$f=(int)($_GET['f']);
-}
-if(isset($_GET['g'])){
-$g=(int)($_GET['g']);
-}
-if(isset($_GET['A'])){
-$A=(int)($_GET['A']);
-}
-if(isset($_GET['B'])){
-$B=(int)($_GET['B']);
-}
-if(isset($_GET['C'])){
-$C=(int)($_GET['C']);
-}
-if(isset($_GET['D'])){
-$D=(int)($_GET['D']);
-}
-				
 				echo'<div class="section group">';
 					echo'<div class="col span_1_of_6"><!-- 1 of 6 --></div>';
 					echo'<div class="col span_4_of_6 bullet">';
@@ -102,8 +79,8 @@ $D=(int)($_GET['D']);
 					echo'</div>';
 					echo'<div class="col span_1_of_6"><!-- 1 of 6 --></div>';
 				echo'</div>';
-	?>						
-										
+	?>
+
 				<div class="section group">
 					<div class="col span_1_of_2">
 					</div>
@@ -111,16 +88,16 @@ $D=(int)($_GET['D']);
 					</div>
 				</div>
 
-	
+
 		</div>  <!-- bg1 -->
-	
-	
-	
+
+
+
 		<div class="footer">
 
 		</div>
 
 
-	
+
 </body>
 </html>
