@@ -16,7 +16,7 @@
 	<meta name="keywords" content="United Way, giving, Knoxville, live united">
 
 	<meta http-equiv="cleartype" content="on">
-	
+
 	<!-- Responsive and mobile friendly stuff -->
 	<meta name="HandheldFriendly" content="True">
 	<meta name="MobileOptimized" content="320">
@@ -54,13 +54,13 @@
 					</div>
 					<div class="col span_3_of_5">
 					<img src="imgs/thx/thx-1.png" alt="Thank you for your interest in giving!" />
-					<a href="https://www.unitedwayknox.org/ecommunity/Common/UserRegistration.jsp"><img src="imgs/thx/donate-now.png" alt="Donate now!" border=no /></a>
+					<a href="https://www.unitedwayknox.org/ecommunity/comm/SinglePageRegPledge.jsp"><img src="imgs/thx/donate-now.png" alt="Donate now!" border=no /></a>
 					</div>
 					<div class="col span_1_of_5">
 					</div>
 				</div>
-				
-				
+
+
 				<div class="section group">
 					<div class="col span_2_of_9 bullet"></div>
 					<div class="col span_1_of_9 bullet">
@@ -81,7 +81,7 @@
 					<div class="col span_2_of_9 bullet"></div>
 				</div>
 
-				
+
 				<div class="section group">
 					<div class="col span_1_of_2">
 					</div>
@@ -89,16 +89,16 @@
 					</div>
 				</div>
 
-	
+
 		</div>  <!-- bg1 -->
-	
-	
-	
+
+
+
 		<div class="footer">
 
 		</div>
 
 
-	
+
 </body>
 </html>
