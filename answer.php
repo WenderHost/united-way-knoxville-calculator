@@ -111,8 +111,6 @@ elseif (($_GET['g'] == 1) && ($_GET['D'] == 1)){
 }
 
 ?>
-
-<?php //include_once("head.php") ?>
 <body>
  <?php include_once("analyticstracking.php") ?>
 <?php include_once("analyticstracking.php") ?>
