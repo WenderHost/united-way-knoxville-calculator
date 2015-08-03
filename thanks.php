@@ -70,13 +70,13 @@
 					<a href="http://www.uwgk.org/video-library/" target="_blank"> <img src="imgs/thx/videos.png" alt="Watch some of our videos" border="0" /> </a>
 					</div>
 					<div class="col span_1_of_9 bullet">
-					<a href="https://www.facebook.com/sharer/sharer.php?u=http://united-way-calculator.mbwcstaging.com/"> <img src="imgs/thx/fb.png" alt="Share your results in facebook" border="0" /> </a>
+					<a href="https://www.facebook.com/sharer/sharer.php?u=http://calculator.uwgk.org/"> <img src="imgs/thx/fb.png" alt="Share your results in facebook" border="0" /> </a>
 					</div>
 					<div class="col span_1_of_9 bullet">
-					<a href="https://twitter.com/home?status=%40Unitedwayknox%20presents%20an%20interactive%20giving%20calculator.%20How%20will%20you%20change%20lives%20in%20Knox?%20http://united-way-calculator.mbwcstaging.com/"> <img src="imgs/thx/tw.png" alt="Follow us in twitter" border="0" /> </a>
+					<a href="https://twitter.com/home?status=%40Unitedwayknox%20presents%20an%20interactive%20giving%20calculator.%20How%20will%20you%20change%20lives%20in%20Knox?%20http://calculator.uwgk.org/"> <img src="imgs/thx/tw.png" alt="Follow us in twitter" border="0" /> </a>
 					</div>
 					<div class="col span_1_of_9 bullet">
-					<a href="mailto:?&subject=UWGK Presents an interactive giving calculator&body=UWGK%20Presents%20an%20interactive%20giving%20calculator:%0AChoose%20your%20budget%20and%20your%20cause%20and%20we'll%20show%20you%20the%20amazing%20possibilities%20your%20donation%20will%20create!%0Ahttp://united-way-calculator.mbwcstaging.com/"> <img src="imgs/thx/email.png" alt="Contact us via email" border="0" /> </a>
+					<a href="mailto:?&subject=UWGK Presents an interactive giving calculator&body=UWGK%20Presents%20an%20interactive%20giving%20calculator:%0AChoose%20your%20budget%20and%20your%20cause%20and%20we'll%20show%20you%20the%20amazing%20possibilities%20your%20donation%20will%20create!%0Ahttp://calculator.uwgk.org/"> <img src="imgs/thx/email.png" alt="Contact us via email" border="0" /> </a>
 					</div>
 					<div class="col span_2_of_9 bullet"></div>
 				</div>
